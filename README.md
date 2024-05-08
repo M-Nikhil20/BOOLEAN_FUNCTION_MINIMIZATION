@@ -1,3 +1,4 @@
+# EX NO : 2
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 # AIM:
@@ -33,8 +34,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 # Program:
 ```
-Developed by: S ADITYA
-RegisterNumber: 212223040007
+Developed by: M NIKHIL
+RegisterNumber: 212222230095
 
 module Boolean_min(A,B,C,D,W,X,Y,Z,F1,F2);
 input A,B,C,D,W,X,Y,Z;
